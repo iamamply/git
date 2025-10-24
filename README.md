@@ -3,7 +3,7 @@
 ````
 git init
 git status
-git add . or git add <file_name>
+git add . or git add [file name]
 git commit -m "first commit"
 git branch -M main
 git remote add origin https://github.com/iamamply/git.git
@@ -25,4 +25,10 @@ git clone https://github.com/iamamply/git.git
 **Git pull**
 ````
 git pull origin main
+````
+
+**Gir branch**
+````
+git branch
+git switch [branch name]
 ````
