@@ -1,5 +1,5 @@
 # Git
-**# Git init**
+**Git init**
 ````
 git init
 git status
@@ -10,19 +10,19 @@ git remote add origin https://github.com/iamamply/git.git
 git push -u origin main
 ````
 
-# Git push
+**Git push**
 ````
 git remote add origin https://github.com/iamamply/git.git
 git branch -M main
 git push -u origin main
 ````
 
-# Git clone (New project)
+**Git clone (New project)**
 ````
 git clone https://github.com/iamamply/git.git
 ````
 
-# Git pull
+**Git pull**
 ````
 git pull origin main
 ````
