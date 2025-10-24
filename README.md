@@ -1,4 +1,5 @@
-# Git init
+# Git
+**# Git init**
 ````
 git init
 git status
